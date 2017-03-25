@@ -55,7 +55,8 @@
 	border-bottom: 1px solid gray;
 }
 
-.industry-nav-items {
+.industry-nav-items,
+.primary-nav-items {
 	list-style-type: none;
 }
 
@@ -73,3 +74,14 @@
 .primary-nav-item {
 	text-transform: uppercase;
 }
+
+.primary-nav {
+	height: 55px;
+	float: right;
+	display: inline-block;
+}
+
+.primary-nav-item {
+	float: right;
+}
+
