@@ -50,6 +50,7 @@
 .industry-nav {
 	float: right;
 	display: inline-block;
+	margin-top: 45px;
 }
 
 .industry-nav-items {
