@@ -48,6 +48,7 @@
 }
 
 .industry-nav {
+	height: 55px;
 	float: right;
 	display: inline-block;
 	margin-top: 45px;
