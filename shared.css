@@ -60,5 +60,9 @@
 
 .industry-nav-item {
 	float: right;
-	margin: 35px 10px 35px 20px;
+	margin: 35px 10px 20px 20px;
+}
+
+.industry-nav-items:last-child {
+	margin-left: 100px;
 }
