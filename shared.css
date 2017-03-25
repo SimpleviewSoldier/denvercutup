@@ -31,3 +31,7 @@
 .utility-text {
 	color: white;
 }
+
+.utility-text {
+	text-transform: uppercase;
+}
