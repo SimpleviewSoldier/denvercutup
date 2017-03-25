@@ -1,15 +1,3 @@
-body, html {
-	padding: 0;
-	margin: 0;
-}
-
-.root-container {
-	width: 80%;
-	max-width: 1300px;
-	min-height: 100%;
-	height: 100%;
-}
-
 .utility-header-container {
 	position: fixed;
 	top: 0;
@@ -18,4 +6,28 @@ body, html {
 	height: 45px;
 	z-index: 100;
 	background-color: #82C5C3;
+}
+
+.utility-items {
+	height: 45px;
+	float: right;
+	margin: 0; 
+	padding: 0;
+}
+
+.utility-item {
+	height: 45px;
+	float: right;
+}
+
+.utility-item-inner {
+	display: block;
+	height: 45px;
+	padding: 0 20px;
+	padding-top: 10px;
+}
+
+.utility-icon > i,
+.utility-text {
+	color: white;
 }
