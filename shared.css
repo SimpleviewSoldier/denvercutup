@@ -1,5 +1,5 @@
 .narrow-width {
-	width: 90%;
+	width: 80%;
 	margin: 0 auto;
 }
 
@@ -16,7 +16,7 @@
 .utility-items {
 	height: 45px;
 	float: right;
-	margin: 0 10% 0 0; 
+	margin: 0; 
 	padding: 0;
 }
 
