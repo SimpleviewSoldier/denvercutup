@@ -52,6 +52,11 @@
 	display: inline-block;
 }
 
+.industry-nav-items {
+	list-style-type: none;
+}
+
 .industry-nav-item {
 	float: right;
+	margin-left: 20px;
 }
