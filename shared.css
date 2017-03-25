@@ -48,5 +48,10 @@
 }
 
 .industry-nav {
+	float: right;
+	display: inline-block;
+}
 
+.industry-nav-item {
+	float: right;
 }
