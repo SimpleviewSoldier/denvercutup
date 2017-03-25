@@ -48,6 +48,7 @@
 }
 
 .industry-nav {
+	width: 50%;
 	float: right;
 	display: inline-block;
 	margin-top: 45px;
@@ -59,5 +60,5 @@
 
 .industry-nav-item {
 	float: right;
-	margin: 35px 10px 0 20px;
+	margin: 35px 10px 35px 20px;
 }
