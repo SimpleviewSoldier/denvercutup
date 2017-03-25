@@ -39,7 +39,7 @@
 
 .utility-text {
 	text-transform: uppercase;
-	font-size: 0.75em;
+	font-size: 0.6em;
 }
 
 .header-nav-container {
@@ -61,6 +61,7 @@
 .industry-nav-item {
 	float: right;
 	margin: 25px 10px 20px 20px;
+	font-size: 0.75em;
 }
 
 .industry-nav-items:last-child {
