@@ -66,3 +66,8 @@
 .industry-nav-items:last-child {
 	margin-left: 100px;
 }
+
+.industry-nav-item,
+.primary-nav-item {
+	text-transform: uppercase;
+}
