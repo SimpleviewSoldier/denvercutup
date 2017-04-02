@@ -8,26 +8,26 @@
 	top: 0;
 	left: 0;
 	width: 100%;
-	height: 45px;
+	height: 4px;
 	z-index: 100;
 	background-color: #82C5C3;
 }
 
 .utility-items {
-	height: 45px;
+	height: 40px;
 	float: right;
 	margin: 0; 
 	padding: 0;
 }
 
 .utility-item {
-	height: 45px;
+	height: 40px;
 	float: left;
 }
 
 .utility-item-inner {
 	display: block;
-	height: 45px;
+	height: 40px;
 	padding: 0 20px;
 	padding-top: 10px;
 }
@@ -44,14 +44,14 @@
 
 .header-nav-container {
 	height: 155px;
-	margin-top: 45px;
+	margin-top: 40px;
 }
 
 .industry-nav {
 	height: 55px;
 	float: right;
 	display: inline-block;
-	margin-top: 45px;
+	margin-top: 40px;
 	border-bottom: 1px solid gray;
 }
 
