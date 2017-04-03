@@ -88,8 +88,6 @@
 	text-transform: uppercase;
 }
 
-
-
 .primary-nav {
 	height: 55px;
 	float: right;
@@ -107,5 +105,11 @@
 .industry-nav-item,
 .primary-nav-item {
 	transition: all 0.4s;
+}
+
+.utility-item:hover,
+.industry-nav-item:hover,
+.primary-nav-item:hover {
+	cursor: pointer;
 }
 
