@@ -100,6 +100,7 @@
 .primary-nav-item {
 	float: right;
 	margin: 0 10px 0 40px;
+	font-weight: bolder;
 }
 
 .utility-item,
