@@ -57,7 +57,7 @@
 	position: absolute;
 	top: 100%;
 	left: 50%;
-	transform: translateX(-50%;);
+	transform: translateX(-50%);
 }
 
 .header-nav-container {
