@@ -1,7 +1,13 @@
+/* base styles start */
+
 .narrow-width {
 	width: 80%;
 	margin: 0 auto;
 }
+
+/* base styles end */
+
+/* header styles start */
 
 .utility-header-container {
 	position: fixed;
@@ -23,6 +29,10 @@
 .utility-item {
 	height: 40px;
 	float: left;
+}
+
+.utility-item:hover {
+	background-color: red;
 }
 
 .utility-item-inner {
@@ -65,6 +75,10 @@
 	font-size: 0.75em;
 }
 
+.industry-nav-item:hover {
+	color: red;
+}
+
 .industry-nav-items:last-child {
 	margin-left: 100px;
 }
@@ -73,6 +87,8 @@
 .primary-nav-item {
 	text-transform: uppercase;
 }
+
+
 
 .primary-nav {
 	height: 55px;
@@ -84,5 +100,11 @@
 .primary-nav-item {
 	float: right;
 	margin: 0 10px 0 40px;
+}
+
+.utility-item,
+.industry-nav-item,
+.primary-nav-item {
+	transition: all 0.4s;
 }
 
